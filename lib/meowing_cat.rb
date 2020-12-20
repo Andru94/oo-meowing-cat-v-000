@@ -1,5 +1,5 @@
 ## code youcr solution here.
-class cat
+class Cat
 
   def meow
     puts 'meow!'
