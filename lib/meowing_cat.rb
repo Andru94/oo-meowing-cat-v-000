@@ -1,1 +1,3 @@
-## code youcr solution here. 
+## code youcr solution here.
+class cat
+  def 
