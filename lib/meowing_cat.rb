@@ -1,3 +1,4 @@
 ## code youcr solution here.
 class cat
-  def 
+  attr_accessor :name
+end 
